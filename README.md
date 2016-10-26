@@ -11,4 +11,4 @@ Tradevine BoM Manager is a program that can be used to manipulate the BoM of mul
 
 ## Screenshots
 
-![Screenshot](https://raw.github.cm/Alapwood/Tradevine-BoM-Manager/master/images/screenshot.png)
+![Screenshot](https://raw.github.com/Alapwood/Tradevine-BoM-Manager/master/images/screenshot.png)
